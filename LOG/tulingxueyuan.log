@@ -1,0 +1,15 @@
+DEBUG:root:This is a debug log.
+INFO:root:This is a info log.
+WARNING:root:This is a warning log.
+ERROR:root:This is a error log.
+CRITICAL:root:This is a critical log.
+2018-08-08 21:55:41,468=====DEBUG++++++(message)s
+2018-08-08 21:55:41,500=====INFO++++++(message)s
+2018-08-08 21:55:41,501=====WARNING++++++(message)s
+2018-08-08 21:55:41,501=====ERROR++++++(message)s
+2018-08-08 21:55:41,502=====CRITICAL++++++(message)s
+2018-08-08 21:56:24,533=====DEBUG++++++This is a debug log.
+2018-08-08 21:56:24,533=====INFO++++++This is a info log.
+2018-08-08 21:56:24,534=====WARNING++++++This is a warning log.
+2018-08-08 21:56:24,534=====ERROR++++++This is a error log.
+2018-08-08 21:56:24,534=====CRITICAL++++++This is a critical log.
